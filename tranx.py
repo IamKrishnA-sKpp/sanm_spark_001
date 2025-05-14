@@ -1,0 +1,1 @@
+df = spark.read.csv("adbs://container@storage_account/path/to/file_name.csv")
